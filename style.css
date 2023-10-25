@@ -1,3 +1,11 @@
 body {
     background-color: darkgreen;
-}
+
+    background-image: url("./images/blur2.png"); 
+    background-size: cover ;
+  } 
+  nav{
+    background-image: linear-gradient(to right, rgb(30, 163, 96), white);
+  }
+
+

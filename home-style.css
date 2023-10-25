@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to right, rgb(30, 163, 96), white);
+ } 
+
+
+ h1{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-weight: 900;
+    color: black;
+ }
+
+ div>i:hover{
+    color: black;;
+    
+ }
+ div > i {
+    cursor: pointer;
+}
