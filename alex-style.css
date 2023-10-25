@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+
+ body {
+     background-image: url("./images/blur.png"); 
+     font-size: large;
+     background-size: cover ;
+  } 
+
+nav{
+    background-image: linear-gradient(to right, rgb(30, 163, 96), white);
+  }
+
+.image{
+    border: 5px solid rgb(30, 163, 96);
+    border-radius: 10px;
+}
+
+.Roast{
+    font-family: 'Playfair Display', serif;
+}
+
+#image1{
+    background: url(https://recipetineats.com/wp-content/uploads/2019/05/Marinated-Roast-Beef_7-1.jpg);
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+
+  #image2{
+    background: url(https://assets.epicurious.com/photos/636144e22714ca00966eebd5/16:9/w_4981,h_2802,c_limit/Roast-TurkeywithHamStuffing_RECIPE_102822_3199.jpg);
+    background-size: cover;
+    background-position: center;
+    color: black;
+  }
+  
+#image3{
+    background: url(https://hips.hearstapps.com/hmg-prod/images/maple-bacon-brussels-sprouts-recipe-1630035576.jpg?crop=0.670xw:1.00xh;0.218xw,0&resize=1200:*);
+    background-size: cover;
+    background-position: center;
+    color: white; 
+  }
+  
+#image4{
+    background: url(https://www.kitchensanctuary.com/wp-content/uploads/2020/12/Honey-Glazed-Pigs-in-Blankets-square-FS-8365.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+  
+#image5{
+    background: url(https://www.recipetineats.com/wp-content/uploads/2020/02/Gravy_4-SQ.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+  
+#image6{
+    background: url(https://www.tastingtable.com/img/gallery/gluten-free-yorkshire-puddings-recipe/l-intro-1647447167.jpg);
+    background-size: cover;
+    background-position: center;
+    color: red;
+  }
+
+  #image7{
+    background: url(https://realfood.tesco.com/Media/images/Cauliflower-cheese-final-56c8b9de-69e5-4dc4-89d3-5e586c5d8a01-0-636x418.jpg);
+    background-size: cover;
+    background-position: center;
+    color: red;
+  }
+
+#image8{
+    background: url(https://food-images.files.bbci.co.uk/food/recipes/christmas_pudding_41498_16x9.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(22, 211, 22) ;
+  }
+  
+#image9{
+    background: url(https://www.deliciousmagazine.co.uk/wp-content/uploads/2019/12/DELICIOUS_DEC19_Xmas_45020_Sides_ColeslawSproutsRoastiesParsnipsCarrots-1-768x962.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(22, 211, 22) ;
+  }
+  
+#image10{
+    background: url(https://www.eatwell101.com/wp-content/uploads/2019/02/balsamic-roasted-carrots-recipe.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(22, 211, 22) ;
+  }
+
+.row{
+    margin: 20px;
+    height: 20vh;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: 5px;
+
+    font-size: 50px;
+    padding: 20px;
+}
+
+div > i {
+    cursor: pointer;
+}
+
+div>i:hover{
+   color: #2eb951;;
+}
