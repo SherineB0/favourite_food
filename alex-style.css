@@ -110,6 +110,12 @@ nav{
     padding: 20px;
 }
 
+.image:hover{
+  cursor: pointer;
+  transform: translate(-5%, 5%) ;
+}
+
+
 div > i {
     cursor: pointer;
 }
